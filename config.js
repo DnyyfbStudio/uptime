@@ -22,8 +22,8 @@ window.Config = {
       url: 'https://xinghecity.xyz/'
     },
     {
-      text: '博客',
-      url: 'https://blog.xinghecity.xyz/'
+      text: '即时在离线状态',
+      url: 'https://stats.uptimerobot.com/BQLnrFVjpw'
     },
     {
       text: '哔哩哔哩',
