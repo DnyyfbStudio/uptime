@@ -18,8 +18,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '星河城服务平台',
-      url: 'https://xinghecity.xyz/'
+      text: '幻菌科技',
+      url: 'https://magicjun.cn/'
     },
     {
       text: '即时在离线状态',
