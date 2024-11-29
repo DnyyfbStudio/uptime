@@ -18,16 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '幻菌科技',
+      text: '幻菌科技官网',
       url: 'https://magicjun.cn/'
+    },
+    {
+      text: '幻菌科技方舟智慧服务',
+      url: 'https://ark.magicjun.cn:59565/'
     },
     {
       text: '即时在离线状态',
       url: 'https://stats.uptimerobot.com/BQLnrFVjpw'
-    },
-    {
-      text: '哔哩哔哩',
-      url: 'https://space.bilibili.com/606741691/'
     },
   ],
 };
